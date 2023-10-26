@@ -1,0 +1,9 @@
+.logo-size {
+    width: 150px;
+}
+
+.service-image {
+    height: 150px;
+    width: 100%;
+    object-fit: cover;
+}
