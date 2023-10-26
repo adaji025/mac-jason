@@ -1,9 +1,26 @@
 .logo-size {
-    width: 150px;
+  width: 150px;
 }
 
 .service-image {
-    height: 150px;
-    width: 100%;
-    object-fit: cover;
+  height: 150px;
+  width: 100%;
+  object-fit: cover;
 }
+
+.partners-container {
+  box-shadow: 0px 2px 30px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 0px 2px 30px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 2px 30px 0px rgba(0, 0, 0, 0.75);
+  gap: 40px;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 40px;
+  border-radius: 16px;
+}
+
+.mj {
+  width: 20%;
+}
+
