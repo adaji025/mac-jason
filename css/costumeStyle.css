@@ -33,3 +33,14 @@
   margin-right: auto;
   border: 1px solid gray;
 }
+
+.w-1000 {
+  max-width: 1000px !important;
+}
+
+.w-800 {
+  max-width: 800px !important;
+}
+.w-600 {
+  max-width: 600px !important;
+}
